@@ -5,4 +5,4 @@ This is the code that I use for competitive and I use spike in the future if u u
 
 And some of 2line tracking for spike too.
 
-#This code is not the best code it have some bug you can fix it and make it better.
+This code is not the best code it have some bug you can fix it and make it better.
